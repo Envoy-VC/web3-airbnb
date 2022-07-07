@@ -62,6 +62,7 @@ const Home = () => {
                   label: "Los Angeles",
                 },
               ]}
+              tradtionalHTML5
             />
           </div>
           <div className="vl" />
@@ -70,6 +71,7 @@ const Home = () => {
             <DatePicker
               id="CheckIn"
               onChange={(event) => setCheckIn(event.date)}
+              tradtionalHTML5
             />
           </div>
           <div className="vl" />
@@ -78,6 +80,7 @@ const Home = () => {
             <DatePicker
               id="CheckOut"
               onChange={(event) => setCheckOut(event.date)}
+              tradtionalHTML5
             />
           </div>
           <div className="vl" />
@@ -88,6 +91,7 @@ const Home = () => {
               name="AddGuests"
               type="number"
               onChange={(event) => setGuests(Number(event.target.value))}
+              tradtionalHTML5
             />
           </div>
           <Link
