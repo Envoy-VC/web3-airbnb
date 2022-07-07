@@ -14744,8 +14744,8 @@ web3-utils@1.7.1, web3-utils@^1.7.0:
     randombytes "^2.1.0"
     utf8 "3.0.0"
 
-web3uikit@^0.1.75:
-  version "0.1.75"
+web3uikit@^0.1.166:
+  version "0.1.166"
   resolved "https://registry.yarnpkg.com/web3uikit/-/web3uikit-0.1.75.tgz#c220d0bd1914719a49716234268c3465a59edb15"
   integrity sha512-i7978dUhQmp/PtunjZQ9QHS5E1rujnBZKatIrvOTewIYb9N7GvYO2qnhBB+riS9xNYsNbBp3p5kht2LGjTJfmQ==
   dependencies:
